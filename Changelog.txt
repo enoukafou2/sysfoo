@@ -1,1 +1,2 @@
 CH01
+CHAPTER 02 - Second log commit
